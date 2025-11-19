@@ -37,8 +37,6 @@
 - 🎓 Accounting & Finance Student @ Seneca Polytechnic  
 - 📈 Future CFA | CPA | FRM Candidate  
 - 💻 Finance + Tech Lover (Quant, Data, Automation, FinTech)  
-- 🧱 Building AI Projects, Dashboards & 3D Portfolio  
-- 🌐 Currently learning: **Blender, Three.js, React, MongoDB**  
 - 🚀 Big Goal: Own a Finance & Tech Company by age 29  
 
 ---
