@@ -9,24 +9,27 @@
 
 ---
 
-## 🧰 **Skills**
+## 🧰 **Tools**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" alt="Python" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px"  alt="Mongodb" title="Mongodb" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" />
-  <img src="https://cdn.brandfetch.io/idy68RSCip/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1675835450168" width="40px" alt="Bloomberg" title="Bloomberg"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" />
-  <br>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" />
+  <br>
+  <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="40px" alt="Power Bi" title="Power Bi"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" />
-  <img src="https://img.icons8.com/fluency/48/000000/ms-excel.png" width="40px" alt="Excel" title="Execl" />
+  <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" width="40px" alt="Excel" title="Excel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" />
   <img src="https://img.icons8.com/?size=100&id=70533&format=png&color=000000" width="40px" alt="QuickBooks" title="QuickBooks"/>
+  <br>
+  <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" width="40px" alt="Tableau" title="Tableau" />
+  <img src="https://cdn.brandfetch.io/idy68RSCip/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1675835450168" width="40px" alt="Bloomberg" title="Bloomberg"/>
 
   
   
