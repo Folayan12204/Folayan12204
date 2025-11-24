@@ -9,24 +9,24 @@
 
 ---
 
-## 🧰 **Languages & Tools**
+## 🧰 **Skills**
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" />
+  <img src="https://cdn.brandfetch.io/idy68RSCip/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1675835450168" width="40px" alt="Bloomberg" title="Bloomberg"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" />
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" />
-  <img src="https://img.icons8.com/fluency/48/000000/ms-excel.png" width="40px" alt="Excel" />
+  <img src="https://img.icons8.com/fluency/48/000000/ms-excel.png" width="40px" alt="Excel" title="Execl" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" />
-  <img src="https://img.icons8.com/?size=100&id=70533&format=png&color=000000" width="40px" alt="Quickbooks"/>
+  <img src="https://img.icons8.com/?size=100&id=70533&format=png&color=000000" width="40px" alt="QuickBooks" title="QuickBooks"/>
 
   
   
@@ -41,7 +41,7 @@
 ## 📌 **About Me**
 - 🎓 Accounting & Finance Student @ Seneca Polytechnic  
 - 📈 Future CFA | CPA | FRM Candidate  
-- 💻 Finance + Tech Lover (Quant, Data, Automation, FinTech)  
+- 💻 Finance + Tech Lover (Quant, Data, FinTech, Accounting)  
 - 🚀 Big Goal: Own a Finance & Tech Company by age 29  
 
 ---
