@@ -26,6 +26,7 @@
   <img src="https://img.icons8.com/fluency/48/000000/ms-excel.png" width="40px" alt="Excel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" />
+  <img src="https://img.icons8.com/?size=100&id=70533&format=png&color=000000" width="40px" alt="Quickbooks"/>
 
   
   
