@@ -27,6 +27,7 @@
   <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" width="40px" alt="Excel" title="Excel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40px" alt="R" title="R" />
   <img src="https://img.icons8.com/?size=100&id=70533&format=png&color=000000" width="40px" alt="QuickBooks" title="QuickBooks"/>
+  <img src="https://img.icons8.com/?size=100&id=Onmn6RPrwtZQ&format=png&color=000000" width="40px" alt="Wolfram Language" title="Wolfram Language"/>
   <br>
   <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" width="40px" alt="Tableau" title="Tableau"/>
   <img src="https://cdn.brandfetch.io/idy68RSCip/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1675835450168" width="40px" alt="Bloomberg" title="Bloomberg"/>
